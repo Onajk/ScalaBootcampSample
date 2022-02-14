@@ -1,0 +1,75 @@
+﻿<UserControl x:Class="TrainingApp.MVVM.View.TicTacToePageView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:TrainingApp.MVVM.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="700">
+<!--Tic Tac Toe game page-->
+    <StackPanel>
+<!--Game comments-->
+        <TextBlock Text="{Binding TicTacToeGameComments}"
+                   Margin="10"
+                   FontSize="20"
+                   Foreground="White"
+                   TextAlignment="Center"/>
+
+        <StackPanel Orientation="Horizontal">
+<!--Game board-->
+            <Grid Width="400"
+              Height="400"
+              VerticalAlignment="Bottom"
+              HorizontalAlignment="Left"
+              Margin="15">
+                <ItemsControl ItemsSource="{Binding TicTacToeFieldList}">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <UniformGrid Columns="3" />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <local:TicTacToeFieldView />
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+            </Grid>
+<!--Game options-->
+            <StackPanel VerticalAlignment="Center">
+                <StackPanel Orientation="Horizontal">
+                    <StackPanel VerticalAlignment="Center">
+                        <Label Content="Game mode:"
+                               Foreground="White"
+                               FontSize="15"/>
+                        <ListBox Height="90"
+                                 SelectedIndex="{Binding GameMode}">
+                            <ListBoxItem Content="Two players"/>
+                            <ListBoxItem Content="Random guy (AI)"/>
+                            <ListBoxItem Content="Expert (AI)"/>
+                        </ListBox>
+                    </StackPanel>
+
+                    <StackPanel VerticalAlignment="Center">
+                        <Label Content="Starting player:"
+                               Foreground="White"
+                               FontSize="15"/>
+                        <ListBox Height="90"
+                                 SelectedIndex="{Binding StartingPlayer}">
+                            <ListBoxItem Content="Player X"/>
+                            <ListBoxItem Content="Player O (AI)"/>
+                        </ListBox>
+                    </StackPanel>
+                </StackPanel>
+                
+                <Button Content="Restart"
+                        Height="40"
+                        Width="60"
+                        FontSize="15"
+                        Margin="0,20,0,0"
+                        Command="{Binding RestartGameCommand}"/>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+    
+</UserControl>

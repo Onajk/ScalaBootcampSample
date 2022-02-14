@@ -1,0 +1,267 @@
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\TrainingApp.exe
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\TrainingApp.deps.json
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\TrainingApp.runtimeconfig.json
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\TrainingApp.runtimeconfig.dev.json
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\TrainingApp.dll
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\TrainingApp.pdb
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp_MarkupCompile.cache
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp_MarkupCompile.lref
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\App.baml
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\Theme\MenuButtonTheme.baml
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.g.resources
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.AssemblyInfoInputs.cache
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.AssemblyInfo.cs
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.csproj.CoreCompileInputs.cache
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.dll
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.pdb
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.genruntimeconfig.cache
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\bin\Debug\netcoreapp3.1\TrainingApp.exe
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\bin\Debug\netcoreapp3.1\TrainingApp.deps.json
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\bin\Debug\netcoreapp3.1\TrainingApp.runtimeconfig.json
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\bin\Debug\netcoreapp3.1\TrainingApp.runtimeconfig.dev.json
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\bin\Debug\netcoreapp3.1\TrainingApp.dll
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\bin\Debug\netcoreapp3.1\TrainingApp.pdb
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\TrainingApp.csprojAssemblyReference.cache
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\MVVM\View\HomeView.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\MVVM\View\TicTacToeView.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\TrainingApp_MarkupCompile.cache
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\TrainingApp_MarkupCompile.lref
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\App.baml
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\MVVM\View\HomeView.baml
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\MVVM\View\TicTacToeView.baml
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\Theme\MenuButtonTheme.baml
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\TrainingApp.g.resources
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\TrainingApp.AssemblyInfoInputs.cache
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\TrainingApp.AssemblyInfo.cs
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\TrainingApp.csproj.CoreCompileInputs.cache
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\TrainingApp.dll
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\TrainingApp.pdb
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\TrainingApp.genruntimeconfig.cache
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\MVVM\View\NotesView.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\MVVM\View\NotesView.baml
+D:\Pawel\Desktop\Projects\TrainingApp — kopia\obj\Debug\netcoreapp3.1\Theme\NewNoteTextBoxTheme.baml
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\SQLite-net.dll
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.csproj.CopyComplete
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\TrainingApp.exe
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\TrainingApp.deps.json
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\TrainingApp.runtimeconfig.json
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\TrainingApp.runtimeconfig.dev.json
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\TrainingApp.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\TrainingApp.pdb
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\SQLite-net.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.csprojAssemblyReference.cache
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\NoteView.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\Theme\NewNoteTextBoxTheme.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\BookFinderPageView.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\HomePageView.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\NotesPageView.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\NoteView.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\TicTacToeFieldView.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\TicTacToePageView.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp_MarkupCompile.cache
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp_MarkupCompile.lref
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\BookFinderPageView.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\HomePageView.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\NotesPageView.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\TicTacToeFieldView.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\TicTacToePageView.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\Theme\MenuButtonTheme.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.g.resources
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.AssemblyInfoInputs.cache
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.AssemblyInfo.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.csproj.CopyComplete
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.pdb
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\Google.Apis.Books.v1.dll
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\TrainingApp.csprojAssemblyReference.cache
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\Theme\NewNoteContentTextBoxTheme.baml
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\Theme\NewNoteTitleTextBoxTheme.baml
+D:\Pawel\Desktop\Projects\TrainingApp\bin\Debug\netcoreapp3.1\MVVM\ViewModel\Controls\NoteViewModel.cs
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\Controls\NoteView.baml
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\Controls\NoteView.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\Controls\TicTacToeFieldView.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\Pages\BookFinderPageView.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\Pages\HomePageView.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\Pages\NotesPageView.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\Pages\TicTacToePageView.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\Controls\TicTacToeFieldView.baml
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\Pages\BookFinderPageView.baml
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\Pages\HomePageView.baml
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\Pages\NotesPageView.baml
+D:\Pawel\Desktop\Projects\TrainingApp\obj\Debug\netcoreapp3.1\MVVM\View\Pages\TicTacToePageView.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\MVVM\ViewModel\Controls\NoteViewModel.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\TrainingApp.exe
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\TrainingApp.deps.json
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\TrainingApp.runtimeconfig.json
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\TrainingApp.runtimeconfig.dev.json
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\TrainingApp.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\TrainingApp.pdb
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\Google.Apis.Books.v1.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\SQLite-net.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\TrainingApp.csprojAssemblyReference.cache
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\MVVM\View\Controls\NoteView.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\Theme\NewNoteContentTextBoxTheme.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\Theme\NewNoteTitleTextBoxTheme.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\MVVM\View\Controls\NoteView.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\MVVM\View\Controls\TicTacToeFieldView.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\BookFinderPageView.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\HomePageView.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\NotesPageView.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\TicTacToePageView.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\TrainingApp_MarkupCompile.cache
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\TrainingApp_MarkupCompile.lref
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\MVVM\View\Controls\TicTacToeFieldView.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\BookFinderPageView.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\HomePageView.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\NotesPageView.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\TicTacToePageView.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\Theme\MenuButtonTheme.baml
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\TrainingApp.g.resources
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\TrainingApp.AssemblyInfoInputs.cache
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\TrainingApp.AssemblyInfo.cs
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\TrainingApp.csproj.CopyComplete
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\TrainingApp.dll
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\TrainingApp.pdb
+C:\Users\pawel.kedzierski\Documents\Projects\TrainingApp_13_02\obj\Debug\netcoreapp3.1\Theme\BookSearchTextBoxTheme.baml
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\MVVM\ViewModel\Controls\NoteViewModel.cs
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\TrainingApp.exe
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\TrainingApp.deps.json
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\TrainingApp.runtimeconfig.json
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\TrainingApp.runtimeconfig.dev.json
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\TrainingApp.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\TrainingApp.pdb
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\Google.Apis.Books.v1.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\SQLite-net.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\TrainingApp.csprojAssemblyReference.cache
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\MVVM\View\Controls\NoteView.baml
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\MVVM\View\Controls\TicTacToeFieldView.baml
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\Theme\BookSearchTextBoxTheme.baml
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\Theme\MenuButtonTheme.baml
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\Theme\NewNoteContentTextBoxTheme.baml
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\Theme\NewNoteTitleTextBoxTheme.baml
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\MVVM\View\Controls\NoteView.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\MVVM\View\Controls\TicTacToeFieldView.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\BookFinderPageView.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\HomePageView.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\NotesPageView.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\TicTacToePageView.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\TrainingApp_MarkupCompile.cache
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\TrainingApp_MarkupCompile.lref
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\App.baml
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\BookFinderPageView.baml
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\HomePageView.baml
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\NotesPageView.baml
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\MVVM\View\Pages\TicTacToePageView.baml
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\TrainingApp.g.resources
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\TrainingApp.AssemblyInfoInputs.cache
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\TrainingApp.AssemblyInfo.cs
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\TrainingApp.csproj.CoreCompileInputs.cache
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\TrainingApp.csproj.CopyComplete
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\TrainingApp.dll
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\TrainingApp.pdb
+D:\Pawel\Desktop\Projects\TrainingApp_14_02\obj\Debug\netcoreapp3.1\TrainingApp.genruntimeconfig.cache

@@ -1,0 +1,35 @@
+﻿<Application x:Class="TrainingApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:view="clr-namespace:TrainingApp.MVVM.View"
+             xmlns:viewModel="clr-namespace:TrainingApp.MVVM.ViewModel"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <!--Styles-->
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Theme/MenuButtonTheme.xaml"/>
+                <ResourceDictionary Source="Theme/NewNoteTitleTextBoxTheme.xaml"/>
+                <ResourceDictionary Source="Theme/NewNoteContentTextBoxTheme.xaml"/>
+                <ResourceDictionary Source="Theme/BookSearchTextBoxTheme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <!--Making connections between Views and ViewModels-->
+            <DataTemplate DataType="{x:Type viewModel:HomePageViewModel}">
+                <view:HomePageView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:TicTacToePageViewModel}">
+                <view:TicTacToePageView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:NotesPageViewModel}">
+                <view:NotesPageView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:BookFinderPageViewModel}">
+                <view:BookFinderPageView/>
+            </DataTemplate>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

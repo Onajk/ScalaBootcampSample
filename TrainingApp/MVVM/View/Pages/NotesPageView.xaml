@@ -1,0 +1,62 @@
+﻿<UserControl x:Class="TrainingApp.MVVM.View.NotesPageView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:TrainingApp.MVVM.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="700">
+<!--Notes page-->
+    <StackPanel>
+        <ScrollViewer HorizontalScrollBarVisibility="Auto"
+                      VerticalScrollBarVisibility="Disabled">
+            <StackPanel Orientation="Horizontal">
+<!--Note template-->
+                <Border Width="180"
+                        Height="500"
+                        Background="White"
+                        CornerRadius="10"
+                        Margin="10">
+                    <Grid>
+                        <Rectangle Width="180"
+                                   Height="50"
+                                   VerticalAlignment="Top"
+                                   RadiusX="10"
+                                   RadiusY="10"
+                                   Fill="Black"
+                                   StrokeThickness="0"/>
+
+                        <TextBox VerticalAlignment="Top"
+                                 Style="{StaticResource NewNoteTitleTextBoxTheme}"/>
+
+                        <TextBox Margin="0,50,0,0"
+                                 VerticalAlignment="Top"
+                                 Style="{StaticResource NewNoteContentTextBoxTheme}"/>
+
+                        <Button Content="+"
+                                VerticalAlignment="Bottom"
+                                FontSize="36"
+                                Width="50"
+                                Height="50"
+                                FontFamily="Arial Black" 
+                                Command="{Binding NewNoteCommand}"/>
+                    </Grid>
+                </Border>
+<!--New notes-->
+                <ItemsControl ItemsSource="{Binding NoteList}">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <WrapPanel />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <local:NoteView />
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+
+            </StackPanel>
+        </ScrollViewer>
+    </StackPanel>
+</UserControl>
