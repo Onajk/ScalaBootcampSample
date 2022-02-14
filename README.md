@@ -1,5 +1,5 @@
 # ScalaBootcampSample
-Code sample for scala bootcamp application
+Code sample for scala bootcamp application made by Paweł Kędzierski.
 
 C# WPF Application (.Net) with MVVM architecture.
 
